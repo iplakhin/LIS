@@ -25,7 +25,7 @@ def not_closed_order():
     pass
 
 def new_order():
-    pass  # INSERT INTO patients
+    pass  # INSERT INTO orders
 
 
 def update_order():
@@ -35,7 +35,7 @@ def update_order():
 #########---END order queries---##############
 
 
-### SAMPLE FOR FUNCTION ###
+### SAMPLE FUNCTION ###
 
 def SAMPLE():
     try:
